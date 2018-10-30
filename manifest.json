@@ -1,0 +1,83 @@
+{
+   "app": {
+      "icon_color": "#43B2E1",
+      "launch": {
+         "web_url": "https://blockchain.info/wallet/#/login/4a118174-f1ba-414d-962c-bb024ea64da9"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://blockchain.info/wallet/img/favicon/favicon-16x16-0488dff33a6c69c2df7861a32f501bb5de57b372.png"
+      }, {
+         "size": 32,
+         "url": "https://blockchain.info/wallet/img/favicon/favicon-32x32-ca08d7aaadb80fc3fba7705705bdfe0de14bca98.png"
+      }, {
+         "size": 48,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-57x57-c745b812fb038198db25fe7f7a11bf8d540d3a6f.png"
+      }, {
+         "size": 57,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-57x57-c745b812fb038198db25fe7f7a11bf8d540d3a6f.png"
+      }, {
+         "size": 60,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-60x60-ff78b3e5a11e42b9389addcc125f300ba751a380.png"
+      }, {
+         "size": 64,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-72x72-e413ef21886ebb198ed002ccee4db331d1a1dd7e.png"
+      }, {
+         "size": 72,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-72x72-e413ef21886ebb198ed002ccee4db331d1a1dd7e.png"
+      }, {
+         "size": 76,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-76x76-5d05907266505cf540742634e3fe6839528c05a5.png"
+      }, {
+         "size": 96,
+         "url": "https://blockchain.info/wallet/img/favicon/favicon-96x96-160252475e1489a160d6ae72aff957a1367aa6ba.png"
+      }, {
+         "size": 114,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-114x114-55dd80fb4f8ea52a24060592c5e0f40499604848.png"
+      }, {
+         "size": 120,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-120x120-786e4292b2dabb3c79148ba591e6ede941e1c4af.png"
+      }, {
+         "size": 128,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-144x144-77e1f1ad47180de1a849deef3441b43001d2bf8d.png"
+      }, {
+         "size": 144,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-144x144-77e1f1ad47180de1a849deef3441b43001d2bf8d.png"
+      }, {
+         "size": 152,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-152x152-ba16688fc9694eb1c54467120bb1daadb23b7ac9.png"
+      }, {
+         "size": 180,
+         "url": "https://blockchain.info/wallet/img/favicon/apple-icon-180x180-c35bbce112b3b59e55bd39b825a101eecf4975d5.png"
+      }, {
+         "size": 192,
+         "url": "https://blockchain.info/wallet/img/favicon/android-icon-192x192-295f0ddf8ef24be80a8665027f9c9bc003594e03.png"
+      }, {
+         "size": 256,
+         "url": "https://blockchain.info/wallet/img/favicon/android-icon-192x192-295f0ddf8ef24be80a8665027f9c9bc003594e03.png"
+      } ]
+   },
+   "description": "Discover the world's most popular bitcoin wallet. Visit today to create your free simple, secure and safe Blockchain Wallet.",
+   "icons": {
+      "114": "icons/114.png",
+      "120": "icons/120.png",
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "152": "icons/152.png",
+      "16": "icons/16.png",
+      "180": "icons/180.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "57": "icons/57.png",
+      "60": "icons/60.png",
+      "64": "icons/64.png",
+      "72": "icons/72.png",
+      "76": "icons/76.png",
+      "96": "icons/96.png"
+   },
+   "key": "7DniSso9/J14WISUbMvOZcxz2B+stOREDBZu7rmxxx4=",
+   "name": "Биткойн-кошелек - Блок-цепь",
+   "version": "2018.10.2.36546"
+}
